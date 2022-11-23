@@ -6,7 +6,7 @@ Do you have [spotify](https://open.spotify.com/show/7ynHHBy44Zznrbv4AMVxji?si=f0
 
 ### About
 
-This is a space for scientists to tell their honest and honest stories about their journey into science, highs and low they have faced or currently face during their careers in science, their hobbies and topics they would like to talk about on a public space with honesty to maintain authenticity.
+This is a space for scientists to tell their honest and authentic stories about their journey into science, highs and low they have faced or currently face during their careers in science, their hobbies and topics they would like to talk about on a public space with honesty to maintain authenticity.
 
 The first episode of this podcast was a rant by Sarah Nyakeri, the host and producer of the podcast, who at the time was conducting her research and had a tough moment and shared it vulnerably on the podcast. Since there over 50 scientist have come into the podcasts and shared their stories. This episode was recorded and published on 1st December 2021, a weekday at 7pm. Since then, there has been an episode every weekday about at 7pm.
 
