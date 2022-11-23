@@ -12,9 +12,9 @@ The first episode of this podcast was a rant by Sarah Nyakeri, the host and prod
 
 The podcast structure is interview-based, informal and relaxed and mostly long-form episodes. One guest covers 1-7 episodes depending on the topics and the length of the conversation. If you would like to share your story, Choose a time that works for you here: https://calendly.com/thevulnerablescientist/podcast?month=2022-11
 
-### Reach: Statitics
+### Reach: Statistics
 
-This Github reository to make the Downloads data easy to acess. When the podcast started, It was being hosted on Buzzsprout. After while, Sarah thought that it won't be sustainable and the platfrom would delete the episodes if she doesn't pay for the hosting. At the end of March 2022, she moved the podcast to anchor, a free hosting platfromm but it didn't give her all the things she needed. Only after a few weeks, she moved to Acast, back to acnhor then finally settled for acast on Mid April 2022. This explains why the data is scattered.
+This Github reository to make the Downloads data easy to acess. When the podcast started, It was being hosted on Buzzsprout. After a while, Sarah thought that it won't be sustainable and the platfrom would delete the episodes if she doesn't pay for the hosting. At the end of March 2022, she moved the podcast to anchor, a free hosting platfromm but it didn't give her all the things she needed. Only after a few weeks, she moved to Acast, back to acnhor then finally settled for acast on Mid April 2022. This explains why the data is scattered.
 
 By 1445 hours, +3 GMT on 23rd November,  the podcast has 9986 downloads across all podcast platforms and 962 views on Youtube. If you would like to support this show: https://www.patreon.com/thevulnerablescientist or MPESA 07188896962 (Sarah Nyakeri). 
 
