@@ -1,2 +1,2 @@
 # TVScientistPod
-Podcast about vulnerable scientist
+Podcast about vulnerable scientists
