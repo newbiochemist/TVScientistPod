@@ -1,10 +1,10 @@
 # TVScientistPod
-##The Vulnerable Scientist Podcast
+## The Vulnerable Scientist Podcast
 
-###Listen
+### Listen
 Do you have spotify, audible, apple podcasts, google podcasts or any other podcast listening platfrorm, Search for the vulnerable scientist to listen in. You can also find us on youtube (this is just audio for now) to listen.
 
-###About
+### About
 
 This is a space for scientists to tell their honest and honest stories about their journey into science, highs and low they have faced or currently face during their careers in science, their hobbies and topics they would like to talk about on a public space with honesty to maintain authenticity.
 
@@ -18,7 +18,7 @@ This Github reository to make the Downloads data easy to acess. When the podcast
 
 By 1445 hours, +3 GMT on 23rd November,  the podcast has 9986 downloads across all podcast platforms and 962 views on Youtube. If you would like to support this show: https://www.patreon.com/thevulnerablescientist or MPESA 07188896962 (Sarah Nyakeri). 
 
-###Contact us
+### Contact us
 
 If you would like to send an audio message: https://www.sarahnyancheranyakeri.co.ke/thevulnerablescientistpodcast/ otherwise contact us at tvscientistpod on gmail. 
 Website:TheVulnerableScientist.com
